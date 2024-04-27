@@ -1,0 +1,6 @@
+C:\Users\Алеся\Source\Repos\SnakeBattle2\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\Алеся\Source\Repos\SnakeBattle2\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\Алеся\Source\Repos\SnakeBattle2\PluginInterface\obj\Debug\PluginInterface.csproj.AssemblyReference.cache
+C:\Users\Алеся\Source\Repos\SnakeBattle2\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\Алеся\Source\Repos\SnakeBattle2\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\Алеся\Source\Repos\SnakeBattle2\PluginInterface\obj\Debug\PluginInterface.pdb

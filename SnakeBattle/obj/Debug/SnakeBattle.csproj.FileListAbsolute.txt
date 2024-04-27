@@ -1,0 +1,9 @@
+C:\Users\Алеся\Source\Repos\SnakeBattle2\SnakeBattle\bin\Debug\SnakeBattle.dll
+C:\Users\Алеся\Source\Repos\SnakeBattle2\SnakeBattle\bin\Debug\SnakeBattle.pdb
+C:\Users\Алеся\Source\Repos\SnakeBattle2\SnakeBattle\bin\Debug\PluginInterface.dll
+C:\Users\Алеся\Source\Repos\SnakeBattle2\SnakeBattle\bin\Debug\PluginInterface.pdb
+C:\Users\Алеся\Source\Repos\SnakeBattle2\SnakeBattle\obj\Debug\SnakeBattle.csproj.AssemblyReference.cache
+C:\Users\Алеся\Source\Repos\SnakeBattle2\SnakeBattle\obj\Debug\SnakeBattle.csproj.CoreCompileInputs.cache
+C:\Users\Алеся\Source\Repos\SnakeBattle2\SnakeBattle\obj\Debug\SnakeBattle.csproj.CopyComplete
+C:\Users\Алеся\Source\Repos\SnakeBattle2\SnakeBattle\obj\Debug\SnakeBattle.dll
+C:\Users\Алеся\Source\Repos\SnakeBattle2\SnakeBattle\obj\Debug\SnakeBattle.pdb
